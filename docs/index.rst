@@ -22,8 +22,7 @@ Contents
    :numbered:
 
    Home <self>
-   usage
-   api
+   Home
    Grundlagen
    Hardware
    Paket
