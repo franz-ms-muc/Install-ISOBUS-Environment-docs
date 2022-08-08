@@ -19,6 +19,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 9
    :numbered:
 
    Home <self>
