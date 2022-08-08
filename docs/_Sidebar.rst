@@ -1,7 +1,7 @@
 Sidebar
 ===================================
 
-![](https://user-images.githubusercontent.com/69573151/94337139-6e861d00-ffe8-11ea-9361-02eff2a6a750.png)
+.. image:: https://user-images.githubusercontent.com/69573151/94337139-6e861d00-ffe8-11ea-9361-02eff2a6a750.png)
 
 [Home](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/wiki)
 

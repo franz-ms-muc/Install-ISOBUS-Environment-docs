@@ -29,8 +29,8 @@ auch Erdfeuchte: https://wiki.seeedstudio.com/Grove-Capacitive_Moisture_Sensor-C
 
 https://shop.m5stack.com/collections/m5stack-new-arrival/products/fader-unit-with-b10k-potentiometer-sk6812
 
-![](https://user-images.githubusercontent.com/69573151/131331248-42ea9dab-faa2-4fb5-ab71-37fe8f765bd7.jpg)
+.. image:: https://user-images.githubusercontent.com/69573151/131331248-42ea9dab-faa2-4fb5-ab71-37fe8f765bd7.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/131331247-e9492a76-3b58-4345-b62b-4413d01557bb.jpg)
+.. image:: https://user-images.githubusercontent.com/69573151/131331247-e9492a76-3b58-4345-b62b-4413d01557bb.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/131331249-f71b0bd9-9545-427d-b6f1-3b22f853579b.jpg)
+.. image:: https://user-images.githubusercontent.com/69573151/131331249-f71b0bd9-9545-427d-b6f1-3b22f853579b.jpg)

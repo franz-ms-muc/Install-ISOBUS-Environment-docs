@@ -21,17 +21,17 @@ Hardware
 
 Sie erhalten folgendes Set:
 
-![](https://user-images.githubusercontent.com/69573151/92921462-5e8d0b80-f434-11ea-88dc-c8c5131297e3.jpg)
+.. image:: https://user-images.githubusercontent.com/69573151/92921462-5e8d0b80-f434-11ea-88dc-c8c5131297e3.jpg)
 
 dieses müssen Sie zusammenbauen:
 
 für den ersten Versuch "blink" kann der Atom noch vom Kit getrennt sein, 
 
-![](https://user-images.githubusercontent.com/69573151/92921723-e70bac00-f434-11ea-9c39-b5415906eb68.jpeg)
+.. image:: https://user-images.githubusercontent.com/69573151/92921723-e70bac00-f434-11ea-9c39-b5415906eb68.jpeg)
 
 für den zweiten Versuch "ISOMAN" muss er auf das Kit aufgesetzt werden.
 
-![](https://user-images.githubusercontent.com/69573151/92921877-276b2a00-f435-11ea-9e7c-dc57f70c3fec.jpeg)
+.. image:: https://user-images.githubusercontent.com/69573151/92921877-276b2a00-f435-11ea-9e7c-dc57f70c3fec.jpeg)
 
 an einer Stelle musste ich das Gehäuse etwas ausschneiden. 
 
@@ -39,4 +39,4 @@ das gelingt gut mit einem Seitenschneider (2x rein schneiden, und abbrechen) und
 
 ACHTUNG !! Verletzungsgefahr. 
 
-![](https://user-images.githubusercontent.com/69573151/92921988-56819b80-f435-11ea-9ab6-7a02bed56b59.jpeg)
+.. image:: https://user-images.githubusercontent.com/69573151/92921988-56819b80-f435-11ea-9ab6-7a02bed56b59.jpeg)
