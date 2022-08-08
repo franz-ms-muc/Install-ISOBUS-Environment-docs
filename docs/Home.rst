@@ -1,4 +1,5 @@
-# Startseite
+Startseite
+===================================
 
 Willkommen im Wiki. Dieses Wiki ist eine Online-Hilfe, welche viele verschiedene Themen wie häufig gestellte Fragen, mögliche Probleme, Verwendung, Einrichtung und vieles mehr abdeckt. Das hier solltest du lesen, wenn du wissen möchtest wie es funktioniert, insbesondere wie man es installiert, konfiguriert und verwendet.
 

@@ -1,3 +1,7 @@
+Joystick
+===================================
+
+
 Versuchen sie nun die eben erstellte ISOBUS Maschine mit dem AUX-Joystick zu steuern.
 
 Probieren Sie dies sowohl mit dem Traktor-Monitor, als auch mit dem Zusatzbildschirm. 
