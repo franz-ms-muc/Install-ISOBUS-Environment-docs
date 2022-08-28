@@ -20,9 +20,6 @@ Contents
    Hardware
    Gitkraken
    Installation
-   Setting-up
-   Setting-up-(LINUX>`_
-   Setting-up-II
    blink_on_atom
    IsoAgLib-ISOMAN
    Joystick
