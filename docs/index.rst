@@ -18,20 +18,6 @@ Contents
    Home
    Grundlagen
    Hardware
-   Paket
-   Kabel
-   ISOBUS-Kabel-klein
-   Atom
-   Lego
-   Atomic
-   Hardware
-   Kalkulation-Hardware
-   Atom-Erweiterungen
-   HutschienenMoped
-   HutschienenMoped
-   Moped-Stecker
-   Moped-Erweiterungen
-   STAMP-C
    Gitkraken
    Installation
    Setting-up
