@@ -1,11 +1,10 @@
 Hardware
 ===================================
 
-
 .. toctree::
    :maxdepth: 9
    :numbered:
-
+   
    Paket
    Kabel
    ISOBUS-Kabel-klein
