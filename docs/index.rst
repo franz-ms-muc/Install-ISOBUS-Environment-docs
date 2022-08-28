@@ -27,5 +27,5 @@ Contents
    cci_EasyExample_CAN2IP
    ISOBUS-VT-Objects
    ISOBUS-other
-   JTAG
-   Selbsttest
+   Optional
+
