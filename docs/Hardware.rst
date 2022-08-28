@@ -1,6 +1,29 @@
 Hardware
 ===================================
 
+
+.. toctree::
+   :maxdepth: 9
+   :numbered:
+
+   Paket
+   Kabel
+   ISOBUS-Kabel-klein
+   Atom
+   Lego
+   Atomic
+   Kalkulation-Hardware
+   Atom-Erweiterungen
+   HutschienenMoped
+   HutschienenMoped
+   Moped-Stecker
+   Moped-Erweiterungen
+   STAMP-C
+
+
+
+
+
 `atom\_lite <https://docs.m5stack.com/#/en/core/atom_lite>`_
 
 `atom-lite-esp32-development-kit <https://m5stack.com/products/atom-lite-esp32-development-kit>`_
