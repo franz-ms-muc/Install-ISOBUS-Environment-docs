@@ -11,9 +11,9 @@ Sie finden Gitkraken unter M:\\Landmaschinenmechanik\\Unterricht\\SL\\Gitkraken
 
 alternativ auch unter <https://www.gitkraken.com/download/windows64, dort finden Sie auch zahlreiche Videos zur Erklärung:
 
-<https://www.youtube.com/watch?v=ub9GfRziCtU&feature=emb_title
+https://www.youtube.com/watch?v=ub9GfRziCtU&feature=emb_title
 
-<https://www.youtube.com/channel/UCp06FAzrFalo3txskS1gCfA
+https://www.youtube.com/channel/UCp06FAzrFalo3txskS1gCfA
 
 dort doppelklicken Sie auf die GitKrakenSetup.exe
 
@@ -26,7 +26,7 @@ der Startbildschirm sieht bei mir so aus:
 jetzt haben Sie 2 Möglichkeiten:
 
 1.  für ungeduldige: "Sign in with GitHub", das beschreiben wir unten auch gleich.
-2.  <https://www.gitkraken.com/student-resources hier können sie ein kostenloses GitKraken Pro bekommen, das kostet normalerweise 49$ pro Jahr und Nase: <https://www.gitkraken.com/pricing
+2.  https://www.gitkraken.com/student-resources hier können sie ein kostenloses GitKraken Pro bekommen, das kostet normalerweise 49$ pro Jahr und Nase: https://www.gitkraken.com/pricing
 
 so, wir beschreiben hier nur die erste Option:
 
