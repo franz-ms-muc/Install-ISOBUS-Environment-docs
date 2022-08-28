@@ -6,8 +6,8 @@ Setting-up
 
 ## Schritt\_01:
 
-> Hintergrundinfos gibt es hier:  
-> <https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/
+Hintergrundinfos gibt es hier:  
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/
 
 Bitte prüfen Sie VORAB ob ihr Username unter C:\\Users ohne Umlaut und ohne Leerzeichen ist. 
 
@@ -15,11 +15,11 @@ ansonsten bekommen Sie schwerwiegende Probleme. 
 
 M:\\Landmaschinenmechanik\\Unterricht\\SL\\esp-idf\\esp-idf-tools-setup-2.9.exe
 
-`<https://dl.espressif.com/dl/esp-idf/?idf=4.4 <https://dl.espressif.com/dl/esp-idf/?idf=4.4>`_
+https://dl.espressif.com/dl/esp-idf/?idf=4.4
 
-`<https://dl.espressif.com/dl/esp-idf-tools-setup-online-2.10.exe? <https://dl.espressif.com/dl/esp-idf-tools-setup-online-2.9.exe?>`_
+https://dl.espressif.com/dl/esp-idf-tools-setup-online-2.9.exe
 
-<https://dl.espressif.com/dl/esp-idf-tools-setup-offline-2.10.exe?
+https://dl.espressif.com/dl/esp-idf-tools-setup-offline-2.10.exe
 
 ## Schritt\_02:
 
@@ -106,7 +106,7 @@ auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 > 
 > so, hier könnte man von der Kommandozeile aus bereits arbeiten.
 > 
-> !`Schritt_12 <https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/master/images/SettingUp/Schritt_12.png
+> !`Schritt_12 <https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/SettingUp/Schritt_12.png
 
 ## Schritt\_13:
 
