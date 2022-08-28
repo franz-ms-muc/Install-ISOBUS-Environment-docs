@@ -1,5 +1,5 @@
 Installation und Verwendung von Gitkraken:
-===================================
+==========================================
 
 BEVOR Sie beginnen lesen Sie bitte den Abschnitt zu Github durch. 
 
