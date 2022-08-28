@@ -15,7 +15,6 @@ Hardware
    Kalkulation-Hardware
    Atom-Erweiterungen
    HutschienenMoped
-   HutschienenMoped
    Moped-Stecker
    Moped-Erweiterungen
    STAMP-C
