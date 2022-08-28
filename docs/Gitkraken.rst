@@ -5,7 +5,7 @@ BEVOR Sie beginnen lesen Sie bitte den Abschnitt zu Github durch. 
 
 es ist wichtig dass Sie sich mit ihrer Schul-E-Mail Adresse bei Github angemeldet haben,
 
-und Sie sollten auch die privaten Repositories sehen, z.B. dieses hier: `<https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/blink_on_atom <https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/blink_on_atom>`_
+und Sie sollten auch die privaten Repositories sehen, z.B. dieses hier: https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/blink_on_atom
 
 Sie finden Gitkraken unter M:\\Landmaschinenmechanik\\Unterricht\\SL\\Gitkraken
 
