@@ -33,4 +33,5 @@ formats:
   - pdf
   - epub
 
-
+sphinx:
+  fail_on_warning: true
