@@ -5,17 +5,17 @@ JTAG
 
 jetzt richten wir JTAG ein.
 
-<https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/configure-wrover.html
+https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/configure-wrover.html
 
-<https://github.com/espressif/esp-iot-solution/blob/master/documents/evaluation_boards/ESP-Prog_guide_en.md
+https://github.com/espressif/esp-iot-solution/blob/master/documents/evaluation_boards/ESP-Prog_guide_en.md
 
-!`Schritt_01 <https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/master/images/JTAG/Schritt_01.png
+!`Schritt_01 .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/master/images/JTAG/Schritt_01.png
 
-!`Schritt_01a <https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/master/images/JTAG/Schritt_01a.jpeg 
+!`Schritt_01a .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/master/images/JTAG/Schritt_01a.jpeg 
 
-!`Schritt_01b <https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/master/images/JTAG/Schritt_01b.jpeg 
+!`Schritt_01b .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/master/images/JTAG/Schritt_01b.jpeg 
 
-!`Schritt_01c <https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/master/images/JTAG/Schritt_01c.jpeg 
+!`Schritt_01c .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/master/images/JTAG/Schritt_01c.jpeg 
 
 <https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/configure-other-jtag.html
 
