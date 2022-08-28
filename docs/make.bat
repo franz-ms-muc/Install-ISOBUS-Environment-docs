@@ -6,7 +6,7 @@ REM Command file for Sphinx documentation
 
 if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
-)
+>`_
 set SOURCEDIR=.
 set BUILDDIR=_build
 
@@ -19,9 +19,9 @@ if errorlevel 9009 (
 	echo.may add the Sphinx directory to PATH.
 	echo.
 	echo.If you don't have Sphinx installed, grab it from
-	echo.https://www.sphinx-doc.org/
+	echo.<https://www.sphinx-doc.org/
 	exit /b 1
-)
+>`_
 
 if "%1" == "" goto help
 

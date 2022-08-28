@@ -27,7 +27,7 @@ Besondere Umstände erfordern besondere Maßnahmen:
 .. image:: https://user-images.githubusercontent.com/5702985/106381497-751f0980-63b9-11eb-8dca-34fd90130f16.png
 
 *   diese IP-Adresse geben sie im Farm-Display ein
-    *   installation siehe: [nx\_farm\_display https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/wiki/nx_farm_display)
+    *   installation siehe: `nx\_farm\_display <https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/wiki/nx_farm_display>`_
     *   Als CAN-Interface wählen Sie "router 2"
     *   Screenshot:
 

@@ -5,15 +5,15 @@ BEVOR Sie beginnen lesen Sie bitte den Abschnitt zu Github durch. 
 
 es ist wichtig dass Sie sich mit ihrer Schul-E-Mail Adresse bei Github angemeldet haben,
 
-und Sie sollten auch die privaten Repositories sehen, z.B. dieses hier: [https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/blink_on_atom https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/blink_on_atom)
+und Sie sollten auch die privaten Repositories sehen, z.B. dieses hier: `<https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/blink_on_atom <https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/blink_on_atom>`_
 
 Sie finden Gitkraken unter M:\\Landmaschinenmechanik\\Unterricht\\SL\\Gitkraken
 
-alternativ auch unter https://www.gitkraken.com/download/windows64, dort finden Sie auch zahlreiche Videos zur Erklärung:
+alternativ auch unter <https://www.gitkraken.com/download/windows64, dort finden Sie auch zahlreiche Videos zur Erklärung:
 
-https://www.youtube.com/watch?v=ub9GfRziCtU&feature=emb_title
+<https://www.youtube.com/watch?v=ub9GfRziCtU&feature=emb_title
 
-https://www.youtube.com/channel/UCp06FAzrFalo3txskS1gCfA
+<https://www.youtube.com/channel/UCp06FAzrFalo3txskS1gCfA
 
 dort doppelklicken Sie auf die GitKrakenSetup.exe
 
@@ -26,11 +26,11 @@ der Startbildschirm sieht bei mir so aus:
 jetzt haben Sie 2 Möglichkeiten:
 
 1.  für ungeduldige: "Sign in with GitHub", das beschreiben wir unten auch gleich.
-2.  https://www.gitkraken.com/student-resources hier können sie ein kostenloses GitKraken Pro bekommen, das kostet normalerweise 49$ pro Jahr und Nase: https://www.gitkraken.com/pricing
+2.  <https://www.gitkraken.com/student-resources hier können sie ein kostenloses GitKraken Pro bekommen, das kostet normalerweise 49$ pro Jahr und Nase: <https://www.gitkraken.com/pricing
 
 so, wir beschreiben hier nur die erste Option:
 
-wenn Sie "Sign in With Github" klicken (sie müssen die Fehler darunter leer lassen) dann öffnet sich der Browser:
+wenn Sie "Sign in With Github" klicken (sie müssen die Fehler darunter leer lassen>`_ dann öffnet sich der Browser:
 
 .. image:: https://user-images.githubusercontent.com/69573151/92913245-e2da9100-f42a-11ea-9c2b-151fbe643ae9.png
 
@@ -68,7 +68,7 @@ hier einen Haken setzen, und "I Agree" drücken. 
 
 hier ist egal was Sie wählen, Gitkraken gibt ihnen automatisch ein Trial der Pro Version. deswegen wählen wir "Start my Pro trial"
 
-(siehe oben für eine Möglichkeit als Student eine kostenlose Pro für mehr als die 7 Tage zu bekommen) 
+(siehe oben für eine Möglichkeit als Student eine kostenlose Pro für mehr als die 7 Tage zu bekommen>`_ 
 
 .. image:: https://user-images.githubusercontent.com/69573151/92915186-9bed9b00-f42c-11ea-97c4-a73093bd4907.png
 

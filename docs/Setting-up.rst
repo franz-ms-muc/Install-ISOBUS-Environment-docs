@@ -7,7 +7,7 @@ Setting-up
 ## Schritt\_01:
 
 > Hintergrundinfos gibt es hier:  
-> https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/
+> <https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/
 
 Bitte prüfen Sie VORAB ob ihr Username unter C:\\Users ohne Umlaut und ohne Leerzeichen ist. 
 
@@ -15,11 +15,11 @@ ansonsten bekommen Sie schwerwiegende Probleme. 
 
 M:\\Landmaschinenmechanik\\Unterricht\\SL\\esp-idf\\esp-idf-tools-setup-2.9.exe
 
-[https://dl.espressif.com/dl/esp-idf/?idf=4.4 https://dl.espressif.com/dl/esp-idf/?idf=4.4)
+`<https://dl.espressif.com/dl/esp-idf/?idf=4.4 <https://dl.espressif.com/dl/esp-idf/?idf=4.4>`_
 
-[https://dl.espressif.com/dl/esp-idf-tools-setup-online-2.10.exe? https://dl.espressif.com/dl/esp-idf-tools-setup-online-2.9.exe?)
+`<https://dl.espressif.com/dl/esp-idf-tools-setup-online-2.10.exe? <https://dl.espressif.com/dl/esp-idf-tools-setup-online-2.9.exe?>`_
 
-https://dl.espressif.com/dl/esp-idf-tools-setup-offline-2.10.exe?
+<https://dl.espressif.com/dl/esp-idf-tools-setup-offline-2.10.exe?
 
 ## Schritt\_02:
 
@@ -84,21 +84,21 @@ auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 
 .. image:: https://user-images.githubusercontent.com/69573151/124081200-86913e00-da4b-11eb-97c1-8a3e3532f13d.png
 
-> ## Schritt\_12: (nur Info)
+> ## Schritt\_12: (nur Info>`_
 > 
 > idf.py menuconfig
 > 
 > idf.py build
 > 
-> https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#step-6-connect-your-device
+> <https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#step-6-connect-your-device
 > 
-> https://docs.espressif.com/projects/esp-idf/en/latest/get-started/establish-serial-connection.html
+> <https://docs.espressif.com/projects/esp-idf/en/latest/get-started/establish-serial-connection.html
 > 
-> https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+> <https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
 > 
-> https://www.ftdichip.com/Drivers/VCP.htm
+> <https://www.ftdichip.com/Drivers/VCP.htm
 > 
-> https://github.com/espressif/esp-iot-solution/blob/master/documents/evaluation_boards/ESP-Prog_guide_en.md#introduction-to-the-esp-prog-board
+> <https://github.com/espressif/esp-iot-solution/blob/master/documents/evaluation_boards/ESP-Prog_guide_en.md#introduction-to-the-esp-prog-board
 > 
 > idf.py flash
 > 
@@ -106,7 +106,7 @@ auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 > 
 > so, hier könnte man von der Kommandozeile aus bereits arbeiten.
 > 
-> ![Schritt_12 https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/master/images/SettingUp/Schritt_12.png
+> !`Schritt_12 <https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/master/images/SettingUp/Schritt_12.png
 
 ## Schritt\_13:
 

@@ -5,9 +5,9 @@ dieses Setup steht ab ca. Januar 2022 zur Verfügung.
 
 
 
-https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html
+<https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html
 
-https://dl.espressif.com/dl/esp-idf/?idf=4.4
+<https://dl.espressif.com/dl/esp-idf/?idf=4.4
 
 
 Espressif-IDE 2.4.0 with ESP-IDF v4.4

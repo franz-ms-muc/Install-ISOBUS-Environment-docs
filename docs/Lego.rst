@@ -1,9 +1,9 @@
 Lego
 ===================================
 
-https://www.1000steine.de/de/gemeinschaft/forum/?entry=1&id=442294
+<https://www.1000steine.de/de/gemeinschaft/forum/?entry=1&id=442294
 
-[https://youtu.be/z4hOIl2aygs https://youtu.be/z4hOIl2aygs)
+`<https://youtu.be/z4hOIl2aygs <https://youtu.be/z4hOIl2aygs>`_
 
 .. image:: https://user-images.githubusercontent.com/69573151/131330958-6abf443c-4645-4e32-86a0-60b3e0e0216d.jpg
 

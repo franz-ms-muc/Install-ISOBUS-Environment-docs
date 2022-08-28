@@ -9,13 +9,13 @@ Nehmen Sie für das erste Projekt diesen Workspace:
 
 C:\\git\\blink\_on\_atom\\eclipse-workspace
 
-(außer sie haben vorhin auf D:\\git ausgecheckt)
+(außer sie haben vorhin auf D:\\git ausgecheckt>`_
 
 .. image:: https://user-images.githubusercontent.com/69573151/92934821-3effde00-f448-11ea-9631-7ec96373413a.png
 
 ## Schritt\_15:
 
-Workbench --> Hide (rechts oben)
+Workbench --> Hide (rechts oben>`_
 
 .. image:: https://user-images.githubusercontent.com/69573151/124086686-9744b280-da51-11eb-847c-1629d53d2afb.png
 
@@ -27,15 +27,15 @@ Workbench --> Hide (rechts oben)
 
 gehen Sie jetzt auf Import Projects
 
-(Diesen Vorgang machen Sie später Analog für andere Projekte !!! Prägen Sie sich das ein !!!)
+(Diesen Vorgang machen Sie später Analog für andere Projekte !!! Prägen Sie sich das ein !!!>`_
 
 .. image:: https://user-images.githubusercontent.com/69573151/92934978-74a4c700-f448-11ea-96b4-80fdf732a31d.png
 
 .. image:: https://user-images.githubusercontent.com/69573151/92935002-7cfd0200-f448-11ea-8178-a4531d733d4f.png
 
-IMMER wenn man einen neuen Workspace aufmacht: (den man an diesem PC noch nie geöffnet hatte)  
+IMMER wenn man einen neuen Workspace aufmacht: (den man an diesem PC noch nie geöffnet hatte>`_  
 IMMER  
-siehe: https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#installing-esp-idf-tools
+siehe: <https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#installing-esp-idf-tools
 
 .. image:: https://user-images.githubusercontent.com/69573151/92935162-b2095480-f448-11ea-8081-65189f5bf2a2.png
 
@@ -57,7 +57,7 @@ C:\\Users\\Lehrer\\.espressif\\python\_env\\idf4.3\_py3.8\_env\\Scripts\\python.
 
 ## Schritt\_20:
 
-https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#configuring-launch-target
+<https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#configuring-launch-target
 
 .. image:: https://user-images.githubusercontent.com/69573151/124087774-a1b37c00-da52-11eb-9f06-1e4fdc2a4a59.png
 
@@ -101,7 +101,7 @@ machen Sie sich mit dem Programm vertraut. 
 
 ## Schritt\_22
 
-https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#viewing-serial-output
+<https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#viewing-serial-output
 
 .. image:: https://user-images.githubusercontent.com/69573151/92991167-1fb58f00-f4e2-11ea-824b-ba9b15978dec.png
 

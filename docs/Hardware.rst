@@ -1,23 +1,23 @@
 Hardware
 ===================================
 
-[atom\_lite https://docs.m5stack.com/#/en/core/atom_lite)
+`atom\_lite <https://docs.m5stack.com/#/en/core/atom_lite>`_
 
-[atom-lite-esp32-development-kit https://m5stack.com/products/atom-lite-esp32-development-kit)
+`atom-lite-esp32-development-kit <https://m5stack.com/products/atom-lite-esp32-development-kit>`_
 
-[atomic https://docs.m5stack.com/#/en/atom/atomic)
+`atomic <https://docs.m5stack.com/#/en/atom/atomic>`_
 
-[atomic-proto-kit https://m5stack.com/products/atomic-proto-kit)
+`atomic-proto-kit <https://m5stack.com/products/atomic-proto-kit>`_
 
-> [atom-echo-smart-speaker-dev-kit https://m5stack.com/collections/m5-atom/products/atom-echo-smart-speaker-dev-kit)
+> `atom-echo-smart-speaker-dev-kit <https://m5stack.com/collections/m5-atom/products/atom-echo-smart-speaker-dev-kit>`_
 > 
-> [atomecho https://docs.m5stack.com/#/en/atom/atomecho)
+> `atomecho <https://docs.m5stack.com/#/en/atom/atomecho>`_
 > 
-> [atom-matrix-esp32-development-kit https://m5stack.com/collections/m5-atom/products/atom-matrix-esp32-development-kit)
+> `atom-matrix-esp32-development-kit <https://m5stack.com/collections/m5-atom/products/atom-matrix-esp32-development-kit>`_
 > 
-> [atom\_matrix https://docs.m5stack.com/#/en/core/atom_matrix)
+> `atom\_matrix <https://docs.m5stack.com/#/en/core/atom_matrix>`_
 > 
-> Zubehör: [m5-atom https://m5stack.com/collections/m5-atom)
+> Zubehör: `m5-atom <https://m5stack.com/collections/m5-atom>`_
 
 Sie erhalten folgendes Set:
 
@@ -35,7 +35,7 @@ für den zweiten Versuch "ISOMAN" muss er auf das Kit aufgesetzt werden.
 
 an einer Stelle musste ich das Gehäuse etwas ausschneiden. 
 
-das gelingt gut mit einem Seitenschneider (2x rein schneiden, und abbrechen) und mit einem Teppichmesser (nachbearbeiten) 
+das gelingt gut mit einem Seitenschneider (2x rein schneiden, und abbrechen>`_ und mit einem Teppichmesser (nachbearbeiten>`_ 
 
 ACHTUNG !! Verletzungsgefahr. 
 
