@@ -1,7 +1,7 @@
 .. include:: ../README.rst
 
 Welcome to Install-ISOBUS-Environment documentation!
-===================================
+======================================================================
 
 .. note::
 
