@@ -1,9 +1,9 @@
 HutschienenMoped
 ===================================
 
-`<https://obstwein-technik.eu/App_Upload/User/U%CC%88bersicht2.JPG <https://obstwein-technik.eu/App_Upload/User/U%CC%88bersicht2.jpg
+https://obstwein-technik.eu/App_Upload/User/U%CC%88bersicht2.JPG
 
-.. image:: https://obstwein-technik.eu/App_Upload/User/U%CC%88bersicht2.jpg
+.. image:: https://obstwein-technik.eu/App_Upload/User/U%CC%88bersicht2.JPG
 
 Das Hutschienenmoped kann wahlweise mit einem 4-poligen oder einem 6-Poligem Kabel betrieben werden. 
 
