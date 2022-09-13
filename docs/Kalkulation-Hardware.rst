@@ -5,7 +5,7 @@ Unsere ECU basiert auf dem ATOM von M5 Stack. 
 
 Schaltplan:
 
-<https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware
+https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware
 
 Stückliste ebendort.
 
@@ -13,7 +13,7 @@ Der Schaltplan ist in EAGLE gemacht, das bekommen Sie so.
 
 > Als Student oder Lehrer haben Sie Anspruch auf ein Äquivalent der Premium-Version von Autodesk EAGLE für den nicht kommerziellen Unterricht.  
 > Aktivieren Sie eine kostenlose, individuelle Bildungslizenz über die Education Community unter  
-> `<http://www.autodesk.com/education/free-software/eagl <http://www.autodesk.com/education/free-software/eagle?_ga=2.259466314.1380045804.1601714642-683047462.1592491658>`_e
+TODO: Link
 
 hier die Kalkulation:
 
