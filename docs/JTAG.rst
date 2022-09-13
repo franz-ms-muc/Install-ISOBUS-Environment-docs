@@ -9,28 +9,32 @@ https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/
 
 https://github.com/espressif/esp-iot-solution/blob/master/documents/evaluation_boards/ESP-Prog_guide_en.md
 
-!`Schritt_01 
+Schritt_01 
+
 .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01.png
 
-!`Schritt_01a 
+Schritt_01a 
+
 .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01a.jpeg 
 
-!`Schritt_01b 
+Schritt_01b 
+
 .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01b.jpeg 
 
-!`Schritt_01c 
+Schritt_01c 
+
 .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01c.jpeg 
 
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/configure-other-jtag.html
 
-## Schritt\_02:
+Schritt_02:
 
 openocd --version
 
-!`Schritt_02 
+
 .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_02.png
 
-## Schritt\_03:
+Schritt_03:
 
 https://docs.espressif.com/projects/esp-idf/en/v4.0-beta2/api-guides/jtag-debugging/index.html
 
@@ -42,29 +46,28 @@ falsch: openocd -f board/esp32-wrover-kit-3.3v.cfg
 
 falsch: https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/index.html
 
-!`Schritt_03 
+Schritt_03 
+
 .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_03.png
 
-## Schritt\_04:
+Schritt_04:
 
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/debugging-examples.html#jtag-debugging-examples-eclipse
 
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/using-debugger.html#jtag-debugging-using-debugger-eclipse
 
-!`Schritt_04
+Schritt_04
+
 .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_04.png
 
-## Schritt\_05:
+Schritt_05:
 
-!`Schritt_05 
 .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_05.png
 
-## Schritt\_06:
+Schritt_06 
 
-!`Schritt_06 
 .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_06.png
 
-## Schritt\_07:
+Schritt_07:
 
-!`Schritt_07 
 .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_07.png

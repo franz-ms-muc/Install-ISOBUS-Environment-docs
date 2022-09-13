@@ -9,8 +9,6 @@ Moped Stecker
 
 .. image:: https://user-images.githubusercontent.com/69573151/131330810-7f8057b1-0ae5-4497-8c75-95dd7f46063d.jpg
 
-.. image:: https://user-images.githubusercontent.com/69573151/131330814-e2892386-ae43-4918-8004-b77e62d3d941.jpg
-
 .. image:: https://user-images.githubusercontent.com/69573151/131330811-2f7aac87-ee6a-43b9-9b88-493c8a4dabf7.jpg
 
 .. image:: https://user-images.githubusercontent.com/69573151/131330813-dfbfb0aa-dbbf-4bfe-945a-b828850712d3.jpg

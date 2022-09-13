@@ -1,7 +1,7 @@
 .. include:: ../README.rst
 
 Welcome to Install-ISOBUS-Environment documentation!
-===================================
+======================================================================
 
 .. note::
 
@@ -15,7 +15,6 @@ Contents
 
    Home <self>
    Home
-   Grundlagen
    Hardware
    Gitkraken
    Installation
@@ -24,7 +23,5 @@ Contents
    Joystick
    cci_EasyExample
    cci_EasyExample_CAN2IP
-   ISOBUS-VT-Objects
-   ISOBUS-other
    Optional
 
