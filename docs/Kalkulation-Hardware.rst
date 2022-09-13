@@ -20,6 +20,8 @@ hier die Kalkulation:
 
 1.  Kalkulation ohne Nebenkosten:
 
+TODO !
+
 +-------------------------+-------------+-------+---+-------------+-------------+------+
 | Nr.                     | Bezeichnung | Menge |   | Einzelpreis | Gesamtpreis | Link |
 +=========================+=============+=======+===+=============+=============+======+
