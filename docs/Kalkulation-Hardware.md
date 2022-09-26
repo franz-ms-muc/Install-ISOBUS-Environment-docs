@@ -1,4 +1,4 @@
-Kalkulation Hardware
+# Kalkulation Hardware
 
 Unsere ECU basiert auf dem ATOM von M5 Stack. 
 
@@ -12,10 +12,9 @@ Der Schaltplan ist in EAGLE gemacht, das bekommen Sie so.
 
 > Als Student oder Lehrer haben Sie Anspruch auf ein Äquivalent der Premium-Version von Autodesk EAGLE für den nicht kommerziellen Unterricht.  
 > Aktivieren Sie eine kostenlose, individuelle Bildungslizenz über die Education Community unter  
-TODO: Link
+> TODO: Link
 
 hier die Kalkulation:
-
 
 1.  Kalkulation ohne Nebenkosten:
 
