@@ -4,7 +4,7 @@ Setting-up
 
 # Installation
 
-## Schritt\_01:
+## Setting-up Schritt\_01:
 
 Hintergrundinfos gibt es hier:  
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/
@@ -21,11 +21,11 @@ https://dl.espressif.com/dl/esp-idf-tools-setup-online-2.9.exe
 
 https://dl.espressif.com/dl/esp-idf-tools-setup-offline-2.10.exe
 
-## Schritt\_02:
+## Setting-up Schritt\_02:
 
 .. image:: https://user-images.githubusercontent.com/69573151/127839833-d287df63-63ee-4f83-8144-ec901b59e1e2.png
 
-## Schritt\_03:
+## Setting-up Schritt\_03:
 
 .. image:: https://user-images.githubusercontent.com/69573151/124079826-edadf300-da49-11eb-9f2c-09df6762d1d3.png
 
@@ -41,7 +41,7 @@ drücken Sie bitte "Apply Fixes"
 
 und dann ja.
 
-## Schritt\_04:
+## Setting-up Schritt\_04:
 
 wählen Sie 4.3
 
@@ -49,34 +49,34 @@ hier wird ihnen der Installer "desktop" vorschlagen, mir gefällt das nicht !
 
 .. image:: https://user-images.githubusercontent.com/69573151/127840259-084f3ce9-8d0c-4779-b7a0-6bc28cbf8860.png
 
-## Schritt\_05:
+## Setting-up Schritt\_05:
 
 entfällt
 
-## Schritt\_06:
+## Setting-up Schritt\_06:
 
 C:\\Users\\hoepffr\\.espressif  
 auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 
 .. image:: https://user-images.githubusercontent.com/69573151/124080125-4c736c80-da4a-11eb-8b2a-84fb4fa06eca.png
 
-## Schritt\_07:
+## Setting-up Schritt\_07:
 
 .. image:: https://user-images.githubusercontent.com/69573151/130443695-329490e6-8fac-427f-aa90-7981b7c79663.png
 
-## Schritt\_08:
+## Setting-up Schritt\_08:
 
 .. image:: https://user-images.githubusercontent.com/69573151/124080464-b1c75d80-da4a-11eb-8bf5-773fbe59612f.png
 
-## Schritt\_09:
+## Setting-up Schritt\_09:
 
 .. image:: https://user-images.githubusercontent.com/69573151/124080562-cdcaff00-da4a-11eb-8764-e3bd49ac888b.png
 
-## Schritt\_10:
+## Setting-up Schritt\_10:
 
 .. image:: https://user-images.githubusercontent.com/69573151/124081041-55b10900-da4b-11eb-8b47-22a968f55e4d.png
 
-## Schritt\_11:
+## Setting-up Schritt\_11:
 
 .. image:: https://user-images.githubusercontent.com/69573151/124081144-737e6e00-da4b-11eb-83ef-0ee6f492b41d.png
 
@@ -84,7 +84,7 @@ auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 
 .. image:: https://user-images.githubusercontent.com/69573151/124081200-86913e00-da4b-11eb-97c1-8a3e3532f13d.png
 
-> ## Schritt\_12: (nur Info>`_
+> ## Setting-up Schritt\_12: (nur Info>`_
 > 
 > idf.py menuconfig
 > 
@@ -108,7 +108,7 @@ auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 > 
 > !`Schritt_12 <https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/SettingUp/Schritt_12.png
 
-## Schritt\_13:
+## Setting-up Schritt\_13:
 
 .. image:: https://user-images.githubusercontent.com/69573151/124082234-c147a600-da4c-11eb-9f46-4c323b9664d6.png
 
