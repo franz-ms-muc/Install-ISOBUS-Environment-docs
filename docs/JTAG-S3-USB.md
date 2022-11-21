@@ -32,10 +32,18 @@ ESP32-S3 chip (via ESP USB Bridge)
 
 ![](https://user-images.githubusercontent.com/69573151/203047309-0cb01fdf-270d-466b-9cfa-3ff82b325a6b.png)
 
-und dann noch "bridge" durch "builtin" ändern: 
+und dann noch "bridge" durch "builtin" ändern:
 
 ![](https://user-images.githubusercontent.com/69573151/203058388-88408581-1401-43c3-ac09-96d061564d6e.png)
 
-geht: 
+geht:
 
 ![](https://user-images.githubusercontent.com/69573151/203058167-a2a946c8-6f37-4790-9454-3d53103c5747.png)
+
+Auch hier kann die Console parallel zum Debugging laufen, 
+
+über ein USB Kabel, 
+
+cool:
+
+![](https://user-images.githubusercontent.com/69573151/203058974-0fcced32-d085-4ce4-b46d-c84454d7e320.png)
