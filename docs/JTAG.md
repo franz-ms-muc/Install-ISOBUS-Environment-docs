@@ -1,6 +1,6 @@
 # JTAG
 
-## Schritt\_01:
+## JTAG Schritt\_01:
 
 jetzt richten wir JTAG ein.
 
@@ -48,13 +48,13 @@ Diese Pins werden mindestens gebraucht:
 
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/configure-other-jtag.html
 
-## Schritt\_02:
+## JTAG Schritt\_02:
 
 openocd --version
 
 ![Schritt_02](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_02.png)
 
-## Schritt\_03:
+## JTAG Schritt\_03:
 
 https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/index.html#run-openocd
 
@@ -66,7 +66,7 @@ ACHTUNG !!! das starten des GDB Servers von der Kommandozeile ist nur noch erfor
 
 \--> aus der ESP-IDF heraus wird openocd automatisch gestartet. 
 
-## Schritt\_04:
+## JTAG Schritt\_04:
 
 an dieser Stelle ist die Doku hoffnungslos veraltet. 
 
@@ -90,15 +90,15 @@ keinerlei Einstellungen zu tätigen. 
 
 ![](https://user-images.githubusercontent.com/69573151/203036844-41313b50-3286-4cd1-bfde-dec157615413.png)
 
-## Schritt\_05:
+## JTAG Schritt\_05:
 
 entfällt
 
-## Schritt\_06:
+## JTAG Schritt\_06:
 
 entfällt
 
-## Schritt\_07:
+## JTAG Schritt\_07:
 
 ![](https://user-images.githubusercontent.com/69573151/203037819-ed99f4f7-3f08-4199-8075-e7261f328ff3.png)
 
