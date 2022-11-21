@@ -84,29 +84,29 @@ auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 
 .. image:: https://user-images.githubusercontent.com/69573151/124081200-86913e00-da4b-11eb-97c1-8a3e3532f13d.png
 
-> ## Schritt\_12: (nur Info>`_
-> 
-> idf.py menuconfig
-> 
-> idf.py build
-> 
-> <https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#step-6-connect-your-device
-> 
-> <https://docs.espressif.com/projects/esp-idf/en/latest/get-started/establish-serial-connection.html
-> 
-> <https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
-> 
-> <https://www.ftdichip.com/Drivers/VCP.htm
-> 
-> <https://github.com/espressif/esp-iot-solution/blob/master/documents/evaluation_boards/ESP-Prog_guide_en.md#introduction-to-the-esp-prog-board
-> 
-> idf.py flash
-> 
-> idf.py monitor
-> 
-> so, hier könnte man von der Kommandozeile aus bereits arbeiten.
-> 
-> !`Schritt_12 <https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/SettingUp/Schritt_12.png
+## Schritt\_12: (nur Info>`_
+ 
+idf.py menuconfig
+
+idf.py build
+
+<https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#step-6-connect-your-device>
+
+<https://docs.espressif.com/projects/esp-idf/en/latest/get-started/establish-serial-connection.html>
+
+<https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers>
+
+<https://www.ftdichip.com/Drivers/VCP.htm>
+
+<https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html>
+
+idf.py flash
+
+idf.py monitor
+
+so, hier könnte man von der Kommandozeile aus bereits arbeiten.
+
+!`Schritt_12 <https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/SettingUp/Schritt_12.png
 
 ## Schritt\_13:
 
