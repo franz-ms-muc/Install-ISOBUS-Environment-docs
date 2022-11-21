@@ -32,6 +32,10 @@ ESP32-S3 chip (via ESP USB Bridge)
 
 ![](https://user-images.githubusercontent.com/69573151/203047309-0cb01fdf-270d-466b-9cfa-3ff82b325a6b.png)
 
-bringt im Moment folgendes:
+und dann noch "bridge" durch "builtin" ändern: 
 
-![](https://user-images.githubusercontent.com/69573151/203048056-01a71651-e9fb-4f04-bf82-f1fe34db9bef.png)
+![](https://user-images.githubusercontent.com/69573151/203058388-88408581-1401-43c3-ac09-96d061564d6e.png)
+
+geht: 
+
+![](https://user-images.githubusercontent.com/69573151/203058167-a2a946c8-6f37-4790-9454-3d53103c5747.png)
