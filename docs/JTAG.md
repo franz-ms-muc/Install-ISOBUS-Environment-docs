@@ -70,13 +70,15 @@ ACHTUNG !!! das starten des GDB Servers von der Kommandozeile ist nur noch erfor
 
 an dieser Stelle ist die Doku hoffnungslos veraltet. 
 
+wenn man die Espressif-IDE (Espressif-IDE) verwendet, dann stimmen diese Links nicht mehr.
+
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/debugging-examples.html#jtag-debugging-examples-eclipse
 
 [https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/using-debugger.html#jtag-debugging-using-debugger-eclipse](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/using-debugger.html#jtag-debugging-using-debugger-eclipse)
 
-Ich habe wie folgt sofort eine Debugging zustande gebracht: 
+Ich habe wie folgt sofort eine Debugging zustande gebracht:
 
-1.  nur ESP-IDF GDB... wählen, dann links oben auf das 
+1.  nur ESP-IDF GDB... wählen, dann links oben auf das
 
 ![](https://user-images.githubusercontent.com/69573151/203037697-609963cb-6331-4772-95b8-35f5f93ed371.png)
 
