@@ -11,4 +11,4 @@ Die Github-`discussions`_-Seite wird für Fragen von Nutzern verwendet.
 
 .. _Installation: <https://install-isobus-environment-docs.readthedocs.io/de/latest/Installation.html>
 .. _issues: <https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/issues>
-.. discussions: <https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/discussions>
+.. _discussions: <https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/discussions>
