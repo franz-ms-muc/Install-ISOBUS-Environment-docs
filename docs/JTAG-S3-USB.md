@@ -18,10 +18,14 @@ openocd -f board/esp32s3-builtin.cfg
 
 ![](https://user-images.githubusercontent.com/69573151/203046882-e9b0c9d0-0f04-461c-bd2d-20bd0f862466.png)
 
-dann läuft es nicht, es muss folgende Einstellung geändert werden: 
+dann läuft es nicht, es muss folgende Einstellung geändert werden:
 
 ![](https://user-images.githubusercontent.com/69573151/203047161-4cc44700-bf47-4987-befd-a3b6d3c98a4b.png)
 
 ESP32-S3 chip (via ESP USB Bridge)
 
 ![](https://user-images.githubusercontent.com/69573151/203047309-0cb01fdf-270d-466b-9cfa-3ff82b325a6b.png)
+
+bringt im Moment folgendes: 
+
+![](https://user-images.githubusercontent.com/69573151/203048056-01a71651-e9fb-4f04-bf82-f1fe34db9bef.png)
