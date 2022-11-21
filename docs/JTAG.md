@@ -10,12 +10,15 @@ https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-refe
 
 https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html
 
-
 ![Schritt_01](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01.png)
 
 ![Schritt_01a](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01a.jpeg)
 
 ![Schritt_01b](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01b.jpeg)
+
+Diese Pins werden mindestens gebraucht: 
+
+![](https://user-images.githubusercontent.com/69573151/203024137-ff74b56a-aa9c-4492-a743-da31df66fcb3.png)
 
 ![Schritt_01c](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01c.jpeg)
 
