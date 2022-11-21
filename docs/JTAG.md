@@ -68,7 +68,7 @@ https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/
 
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/using-debugger.html#jtag-debugging-using-debugger-eclipse
 
-![Schritt_04](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_04.png)
+![](https://user-images.githubusercontent.com/69573151/203036844-41313b50-3286-4cd1-bfde-dec157615413.png)
 
 ## Schritt\_05:
 
