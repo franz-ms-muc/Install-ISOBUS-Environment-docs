@@ -62,22 +62,44 @@ openocd -f board/esp32-wrover-kit-3.3v.cfg
 
 ![](https://user-images.githubusercontent.com/69573151/203031746-93eec259-ef86-4e3e-95a5-7daafd7ebd21.png)
 
+ACHTUNG !!! das starten des GDB Servers von der Kommandozeile ist nur noch erforderlich, wenn man auch an der Kommandozeile debuggt. 
+
+\--> aus der ESP-IDF heraus wird openocd automatisch gestartet. 
+
 ## Schritt\_04:
+
+an dieser Stelle ist die Doku hoffnungslos veraltet. 
 
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/debugging-examples.html#jtag-debugging-examples-eclipse
 
-https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/using-debugger.html#jtag-debugging-using-debugger-eclipse
+[https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/using-debugger.html#jtag-debugging-using-debugger-eclipse](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/using-debugger.html#jtag-debugging-using-debugger-eclipse)
+
+Ich habe wie folgt sofort eine Debugging zustande gebracht: 
+
+1.  nur ESP-IDF GDB... wählen, dann links oben auf das 
+
+![](https://user-images.githubusercontent.com/69573151/203037697-609963cb-6331-4772-95b8-35f5f93ed371.png)
+
+Symbol klicken, 
+
+und starten. 
+
+keinerlei Einstellungen zu tätigen. 
 
 ![](https://user-images.githubusercontent.com/69573151/203036844-41313b50-3286-4cd1-bfde-dec157615413.png)
 
 ## Schritt\_05:
 
-![Schritt_05](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_05.png)
+entfällt
 
 ## Schritt\_06:
 
-![Schritt_06](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_06.png)
+entfällt
 
 ## Schritt\_07:
 
-![Schritt_07](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_07.png)
+![](https://user-images.githubusercontent.com/69573151/203037819-ed99f4f7-3f08-4199-8075-e7261f328ff3.png)
+
+und ja, man kann die Console parallel zur Debugging Session laufen lassen, 
+
+aber die Console muss vor dem Start der Debugging Session offen sein.
