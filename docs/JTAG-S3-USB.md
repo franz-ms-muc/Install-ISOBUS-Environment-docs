@@ -10,7 +10,7 @@ openocd -f board/esp32s3-builtin.cfg
 
 ![](https://user-images.githubusercontent.com/69573151/203045142-a7128ca7-d41a-45e5-8d12-f585134d4ae2.png)
 
-wenn wie oben der Text kommt: 
+wenn wie oben der Text kommt:
 
 Error: libusb\_open() failed with LIBUSB\_ERROR\_NOT\_SUPPORTED
 
@@ -19,6 +19,8 @@ dann bitte diesen Treiber installieren:
 [https://dl.espressif.com/dl/idf-driver/idf-driver-esp32-usb-jtag-2021-07-15.zip](https://dl.espressif.com/dl/idf-driver/idf-driver-esp32-usb-jtag-2021-07-15.zip)
 
 TODO: woher weiß ich dass das der aktuelle ist ? 
+
+![](https://user-images.githubusercontent.com/69573151/203052516-605e5f29-2267-47cb-a2b4-686fec7d6983.png)
 
 ![](https://user-images.githubusercontent.com/69573151/203050292-1710c660-14cf-44aa-9ada-a7983bdb8654.png)
 
