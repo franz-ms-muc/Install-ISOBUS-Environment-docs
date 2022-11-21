@@ -6,8 +6,6 @@ Schaltplan:
 
 [https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware)
 
-[https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware)
-
 Stückliste ebendort.
 
 Der Schaltplan ist in EAGLE gemacht, das bekommen Sie so.
