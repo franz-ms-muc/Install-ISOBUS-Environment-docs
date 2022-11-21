@@ -9,6 +9,8 @@ https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debu
 
 https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html
 
+https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html
+
 Schritt_01 
 
 .. image :: https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01.png
