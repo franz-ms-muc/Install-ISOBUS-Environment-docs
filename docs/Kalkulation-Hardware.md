@@ -27,7 +27,7 @@ hier die Kalkulation:
 | TMK325ABJ476MM-T | 1210 25VDC 47uF 20% X5R | 1 |   | 1,05 € | 1,05 € | [963-TMK325ABJ476MM-T](https://www.mouser.de/ProductDetail/963-TMK325ABJ476MM-T) |
 | TLE9250VSJ | CAN-IC-Schnittstelle | 1 |   | 0,889 € | 0,889 € | [726-TLE9250VSJXUMA1](https://www.mouser.de/ProductDetail/726-TLE9250VSJXUMA1) |
 | SS12L R3 | 1A 20V Schottky | 1 |   | 0,39 € | 0,39 € | [821-SS12LR3](https://www.mouser.de/ProductDetail/821-SS12LR3) |
-| 824501161 | 400W Bidir. 16V TVS | 1 |   | 0,214 € | 0,214 € | [2536507](2536507) |
+| 824501161 | 400W Bidir. 16V TVS | 1 |   | 0,214 € | 0,214 € | [824501161](https://www.we-online.com/katalog/de/WE-TVSP?sq=824501161#824501161) |
 |   | Platine | 1 |   | 0,2235€ | 0,2235€ | [Atomic\_V1.0\_2020-08-29.zip](Atomic_V1.0_2020-08-29.zip) |
 |   | 60.4R | 2 |   | 0,005 € | 0,010 € | [CRCW040260R4FKED](https://www.mouser.de/ProductDetail/Vishay-Dale/CRCW040260R4FKED?qs=sGAEpiMZZMukHu%252BjC5l7YTd9ej6Kgk179nsZ36Jo8n0%3D) |
 |   | 47 nF | 1 |   | 0,008 € | 0,016 € | [TMF105B7473KVHF](https://www.mouser.de/ProductDetail/Taiyo-Yuden/TMF105B7473KVHF?qs=sGAEpiMZZMukHu%252BjC5l7YbZJogKwR3uA3eRLE2jFr74%3D) |
