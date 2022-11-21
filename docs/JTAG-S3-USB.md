@@ -10,6 +10,18 @@ openocd -f board/esp32s3-builtin.cfg
 
 ![](https://user-images.githubusercontent.com/69573151/203045142-a7128ca7-d41a-45e5-8d12-f585134d4ae2.png)
 
+wenn wie oben der Text kommt: 
+
+Error: libusb\_open() failed with LIBUSB\_ERROR\_NOT\_SUPPORTED
+
+dann bitte diesen Treiber installieren:
+
+[https://dl.espressif.com/dl/idf-driver/idf-driver-esp32-usb-jtag-2021-07-15.zip](https://dl.espressif.com/dl/idf-driver/idf-driver-esp32-usb-jtag-2021-07-15.zip)
+
+TODO: woher weiß ich dass das der aktuelle ist ? 
+
+![](https://user-images.githubusercontent.com/69573151/203050292-1710c660-14cf-44aa-9ada-a7983bdb8654.png)
+
 ![](https://user-images.githubusercontent.com/69573151/203045621-d08ba43d-fca0-4416-8fe8-b55c00724ff2.png)
 
 ![](https://user-images.githubusercontent.com/69573151/203046659-9083d6ed-055f-43fa-8976-bc81bbed79de.png)
@@ -26,6 +38,6 @@ ESP32-S3 chip (via ESP USB Bridge)
 
 ![](https://user-images.githubusercontent.com/69573151/203047309-0cb01fdf-270d-466b-9cfa-3ff82b325a6b.png)
 
-bringt im Moment folgendes: 
+bringt im Moment folgendes:
 
 ![](https://user-images.githubusercontent.com/69573151/203048056-01a71651-e9fb-4f04-bf82-f1fe34db9bef.png)
