@@ -5,7 +5,7 @@ JTAG
 
 jetzt richten wir JTAG ein.
 
-https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/configure-wrover.html
+https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html
 
 https://github.com/espressif/esp-iot-solution/blob/master/documents/evaluation_boards/ESP-Prog_guide_en.md
 
