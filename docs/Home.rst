@@ -7,5 +7,8 @@ Wenn du ein neuer Benutzer bist, empfehlen wir dir mit dem Leitfaden zur `Instal
 
 Die GitHub-`issues`_-Seite wird für die Entwicklung verwendet, insbesondere in Bezug auf Fehler und Verbesserungen.
 
+Die Github-`discussions`_-Seite wird für Fragen von Nutzern verwendet. 
+
 .. _Installation: <https://install-isobus-environment-docs.readthedocs.io/de/latest/Installation.html>
-.. _issues: <https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/issues>
+.. _issues: <https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/issues>
+.. discussions: <https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/discussions>
