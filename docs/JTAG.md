@@ -10,13 +10,27 @@ jetzt richten wir JTAG ein.
 
 [https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html)
 
+### USB - Schnittstelle mit ZADIG umstellen: 
+
+#### vorher:
+
 ![](https://user-images.githubusercontent.com/69573151/203028255-a0b5e911-0242-4ecf-957d-ef70e81c8e86.png)
 
 ![](https://user-images.githubusercontent.com/69573151/203028864-2b13e1a3-9be6-4c23-bea2-b32463a38cdb.png)
 
+#### Aufruf von ZADIG:
+
+siehe auch: [https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html#windows](https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html#windows)
+
 ![Schritt_01](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01.png)
 
+#### nachher:
+
 ![](https://user-images.githubusercontent.com/69573151/203028640-6106a050-2190-4467-86d0-e956cf905026.png)
+
+Hinweis: der Vorgang muss leider wiederholt werden wenn man den ESP-PROG an eine andere Schnittstelle anschließt. 
+
+daher idealerweise immer dieselben USB Steckplätze verwenden. 
 
 ![Schritt_01a](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01a.jpeg)
 
