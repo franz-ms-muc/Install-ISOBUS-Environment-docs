@@ -98,7 +98,7 @@ auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 > 
 > <https://www.ftdichip.com/Drivers/VCP.htm
 > 
-> <https://github.com/espressif/esp-iot-solution/blob/master/documents/evaluation_boards/ESP-Prog_guide_en.md#introduction-to-the-esp-prog-board
+> <https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html
 > 
 > idf.py flash
 > 
