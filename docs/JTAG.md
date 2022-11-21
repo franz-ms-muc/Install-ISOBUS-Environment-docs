@@ -16,11 +16,13 @@ https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debu
 
 ![Schritt_01b](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01b.jpeg)
 
-Diese Pins werden mindestens gebraucht: 
+Diese Pins werden mindestens gebraucht:
 
 ![](https://user-images.githubusercontent.com/69573151/203024137-ff74b56a-aa9c-4492-a743-da31df66fcb3.png)
 
 ![Schritt_01c](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01c.jpeg)
+
+![](https://user-images.githubusercontent.com/69573151/203024448-ca6c2e56-4927-4140-aa36-bdfda1c0fcc1.png)
 
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/configure-other-jtag.html
 
