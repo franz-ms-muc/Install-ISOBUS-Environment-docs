@@ -24,6 +24,8 @@ Diese Pins werden mindestens gebraucht:
 
 ![](https://user-images.githubusercontent.com/69573151/203024448-ca6c2e56-4927-4140-aa36-bdfda1c0fcc1.png)
 
+![](https://user-images.githubusercontent.com/69573151/203026388-1db50d10-e977-4246-aa9e-0755429acaee.png)
+
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/configure-other-jtag.html
 
 ## Schritt\_02:
