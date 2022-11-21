@@ -10,7 +10,7 @@ jetzt richten wir JTAG ein.
 
 [https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html)
 
-### USB - Schnittstelle mit ZADIG umstellen: 
+### USB - Schnittstelle mit ZADIG umstellen:
 
 #### vorher:
 
@@ -56,17 +56,11 @@ openocd --version
 
 ## Schritt\_03:
 
-https://docs.espressif.com/projects/esp-idf/en/v4.0-beta2/api-guides/jtag-debugging/index.html
+https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/index.html#run-openocd
 
-openocd -f interface/ftdi/esp32\_devkitj\_v1.cfg -f board/esp-wroom-32.cfg
+openocd -f board/esp32-wrover-kit-3.3v.cfg
 
-https://docs.espressif.com/projects/esp-idf/en/v4.0-beta2/api-guides/jtag-debugging/index.html
-
-falsch: openocd -f board/esp32-wrover-kit-3.3v.cfg
-
-falsch: https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/index.html
-
-![Schritt_03](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_03.png)
+![](https://user-images.githubusercontent.com/69573151/203031746-93eec259-ef86-4e3e-95a5-7daafd7ebd21.png)
 
 ## Schritt\_04:
 
