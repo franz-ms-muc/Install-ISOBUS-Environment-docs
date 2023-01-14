@@ -1,9 +1,22 @@
 HutschienenMoped
 ===================================
 
+
+Das Hutschienenmoped der Meisterschulen am Ostbahnhof ist eine innovatives ECU, das sich perfekt für den Einsatz in Industrieumgebungen eignet. Es ist kompakt, leicht und dennoch robust genug, um in rauen Umgebungen eingesetzt zu werden. Das Hutschienenmoped wird mithilfe von Hutschienen befestigt und ist somit in der Lage, sich schnell und zuverlässig an neue Anforderungen anzupassen.
+
+Das Hutschienenmoped ist mit einem ISOBUS-System ausgestattet, das es ermöglicht, das Moped mit anderen Maschinen und Geräten zu verbinden und zu kommunizieren. Dies ermöglicht es, das Moped in verschiedenen Industrieanwendungen einzusetzen, von der Logistik bis hin zur Fertigung.
+
+In diesem Kapitel werden wir uns näher mit den Eigenschaften und Funktionen des Hutschienenmopeds beschäftigen und zeigen, wie man es in eine ISOBUS-Umgebung integrieren kann. Wir werden auch einige Beispiele für mögliche Anwendungen des Hutschienenmopeds vorstellen und zeigen, wie es in der Praxis eingesetzt werden kann.
+
+
 https://obstwein-technik.eu/App_Upload/User/U%CC%88bersicht2.JPG
 
 .. image:: https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/raw/main/images/U%CC%88bersicht2.jpeg
+
+
+
+
+https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/tree/master/Rail
 
 Das Hutschienenmoped kann wahlweise mit einem 4-poligen oder einem 6-Poligem Kabel betrieben werden. 
 
