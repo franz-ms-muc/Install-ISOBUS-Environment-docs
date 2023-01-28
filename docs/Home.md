@@ -17,3 +17,5 @@ Die Github-[discussions](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen
 [schritt-05.md#setting-up-schritt-03](Setting-up.md#setting-up-schritt-03)
 
 [#setting-up-schritt-03](#setting-up-schritt-03)
+
+{ref}`setting-up-schritt-03`
