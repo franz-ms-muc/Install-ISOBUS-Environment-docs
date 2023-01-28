@@ -1,10 +1,6 @@
 # Setting-up Installation
 
-
-
-[Heading](#setting-up-schritt-13)
-
-
+[Heading](## Setting-up Schritt\_02:)
 
 ## Setting-up Schritt\_01:
 
