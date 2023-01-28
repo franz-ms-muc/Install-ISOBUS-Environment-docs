@@ -1,5 +1,5 @@
 ```{eval-rst}
-.. include:: ../README.rst
+.. include:: ../README.md
 ```
 
 # Welcome to Install-ISOBUS-Environment documentation!
