@@ -8,7 +8,4 @@ Die GitHub-[issues](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Inst
 
 Die Github-[discussions](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/discussions)\-Seite wird für Fragen von Nutzern verwendet.
 
-
-
-
-[schritt-05](Setting-up#setting-up-schritt-05)
+[schritt-05](Setting-up)
