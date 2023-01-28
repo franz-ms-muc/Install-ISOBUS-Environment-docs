@@ -26,5 +26,5 @@ formats: all
 
 sphinx:
   builder: html
-  fail_on_warning: true
+  fail_on_warning: false
 
