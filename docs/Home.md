@@ -10,6 +10,10 @@ Die Github-[discussions](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen
 
 [schritt-05](Setting-up)
 
+[schritt-05.md](Setting-up.md)
+
+[schritt-05.md](Setting-up.md## Setting-up Schritt_02:)
+
 [schritt-05/setting-up-schritt-03](Setting-up/setting-up-schritt-03)
 
 [schritt-05#setting-up-schritt-03](Setting-up#setting-up-schritt-03)
