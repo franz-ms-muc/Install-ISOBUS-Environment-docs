@@ -31,21 +31,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # -- MyST settings ---------------------------------------------------
 
 myst_enable_extensions = [
-    "dollarmath",
-    "amsmath",
-    "deflist",
-    "fieldlist",
-    "html_admonition",
-    "html_image",
     "colon_fence",
-    "smartquotes",
-    "replacements",
-    "linkify",
-    "strikethrough",
-    "substitution",
-    "tasklist",
-    "attrs_inline",
-    "inv_link",
 ]
 myst_heading_anchors = 7
 
