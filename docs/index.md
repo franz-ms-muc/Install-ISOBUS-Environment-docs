@@ -22,6 +22,8 @@ This project is under active development.
 ## Contents
 
 ```{toctree}
+:caption: 'Contents:'
+:maxdepth: 7
 :numbered: true
 
 Home <self>
