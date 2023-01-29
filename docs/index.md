@@ -1,5 +1,6 @@
 ---
 myst:
+  enable_extensions: ["colon_fence"]
   html_meta:
     "google-site-verification": "TyuFoyllrkvesmnVr-a6dR3czc5lWyl5tkGUnzqCehY"
     "description lang=en": "metadata description"
